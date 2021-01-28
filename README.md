@@ -1,4 +1,4 @@
-# How Well Do You Know Manoj CLI App
+# How Well Do You Know Manoj 
 
 This is CLI app built using node.js
 
